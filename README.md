@@ -1,6 +1,6 @@
 # Fiji-OpenCV
 
-[OpenCV](http://opencv.willowgarage.com/wiki/) bindings for Fiji.
+[JavaCV](https://github.com/bytedeco/javacv/) bindings for Fiji.
 
 ## Install
 
